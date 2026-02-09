@@ -1,0 +1,8 @@
+{
+  "name": "Sterling: Visionary Guard",
+  "description": "A warm, voice-first assistant for the visually impaired that acts as a digital eye for documents and a shield against financial scams.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
